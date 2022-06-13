@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm <a href="shricubed.github.io"><b>Shrikar Vasisht</b></a>, a CS major at the University of Maryland. My interests include security, math, and puzzles.
+I'm <a href="https://shricubed.github.io/portfolio"><b>Shrikar Vasisht</b></a>, a CS major at the University of Maryland. My interests include security, math, and puzzles.
 
 - 🔭 I’m currently working on vPing at the UMD Breakerspace lab.
 - 💬 Ask me about my puzzle writing experience!
